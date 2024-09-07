@@ -31,6 +31,8 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Reload Speed:** Customize the reload speed of your guns to your preference.
 
+- **No Collision:** Disables collision between you and all objects, allowing you to walk through walls, enemies, and more.
+
 - **Money Cheat (Nightmare DLC):** Adjust the amount of in-game currency available to the player in Nightmare DLC.
 
 - **Score Adjustment (Nightmare DLC):** Change your score in Nightmare DLC
@@ -122,6 +124,8 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 - **التجميد:** قم بتجميد مواقع جميع الأعداء و امنعهم من الحركة.
 
 - **سرعة التعشيق:** قم بتخصيص سرعة التعشيق لأسلحتك حسب تفضيلك.
+
+- **تعطيل التصادم (No Collision):** تعطيل التصادم و التفاعل بينك وبين جميع العناصر في اللعبة، مما يسمح لك بالمرور و المشي من خلال الجدران والأعداء والخ.
 
 - **تعديل الفلوس (أضافة Nightmare):** تعديل عدد العملات او الفلوس المتوفرة لديك في أضافة Nightmare.
 
