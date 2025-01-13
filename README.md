@@ -1,62 +1,84 @@
-# Resident Evil 7 Tool / Trainer (With GUI) <br/>(By GeNeTeL جنتل) 
+# Resident Evil 7 Tool / Trainer (By GeNeTeL جنتل) 
 
 Simple tool designed to provide various cheats and modifications for Resident Evil 7 biohazard .
-<br> [Showcase Video](https://www.youtube.com/watch?v=jj7myJuQQ5M)
+<br> [Showcase Video - internal - NEW](https://www.youtube.com)
+<br> [Showcase Video - external - OLD](https://www.youtube.com/watch?v=jj7myJuQQ5M)
 ## Features
 - **Completely Free:** :)
 
-- **Full Support:** The tool is compatible with both the 'Ray Tracing Version (DirectX 12)' and the 'Non-Ray Tracing Version (DirectX 11)'.
-  
-- **Multiple Cheats:** You can run multiple Cheats at same time, such as unlimited ammo, unlimited health, FOV etc..... Additionally, you can disable all active cheats with the 'Stop All Active Cheats' Option, in the main menu.
+- **Simple GUI:** The tool features a user-friendly, intuitive interface that is easy to navigate.
 
-- **Ammunition Cheat:** Modify the amount of ammunition available in the game.
-  
-- **Health Cheat:** Adjust the player's health value.
-  
-- **Field of View (FOV) Adjustment:** Change the field of view to customize the viewing angle.
-  
-- **Teleport:** Move the player character to different locations within the game.
+- **Full Config System:** A full configuration system that lets you save and load your settings in 10 available slots, so you can run the tool, load your settings, and enjoy.
 
-- **Player Speed Modification:** Adjust the player movement speed.
+- **Hotkeys:** Hotkeys system for everything, allowing you to enable/disable any feature in the tool using your keyboard. Plus, the keybindings are fully customizable.  
 
-- **Items Adjustment:** Modify the value of the items that you have in the game.
+- **Multiple Cheats:** You can run multiple Cheats at same time, such as infinite ammo, unlimited health, FOV etc...
 
-- **Wall Hack:** See nearby items even through walls.
+- **Infinite Ammo:** Never run out of ammunition, no matter how much you shoot.
 
-- **Damage Adjustment:** Change the damage of your weapons to anything you want. You can even increase it to a high number so you can kill all enemies with one hit.
+- **Freeze Ammo:** Freeze your current ammunition count so it never decreases.
 
-- **Size:** Adjust the size of all enemies to any value you desire.
+- **Refill Your Ammo:** Instantly refill your ammo.
 
-- **Freeze:** Freeze the position of all enemies, preventing them from moving.
+- **Unlimited Health:** Become invincible by preventing your health from decreasing, no matter the damage taken.
 
-- **Reload Speed:** Customize the reload speed of your guns to your preference.
+- **FOV:** Adjust the field of view (FOV) to your liking for a more comfortable gameplay experience.
 
-- **No Collision:** Disables collision between you and all objects, allowing you to walk through walls, enemies, and more.
+- **Teleport:** Instantly teleport to specific coordinates from your choice.
 
-- **Money Cheat (Nightmare DLC):** Adjust the amount of in-game currency available to the player in Nightmare DLC.
+- **No Clip (Flying):** Move freely through walls, floors, and other obstacles in the game.
 
-- **Score Adjustment (Nightmare DLC):** Change your score in Nightmare DLC
+- **Free Cam (Flying with the Camera):** Control the camera independently, allowing you to explore the game world freely.
 
-- **Cards Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
+- **Free Cam - Freeze Cam:** Freeze the camera in place while continuing to play normally.
 
-- **Taken Damage (21 DLC):** Modify the Taken Damage value for both the player and enemy in the 21 DLC.
+- **Player Size:** Change the size of your character, making them larger or smaller.
 
-- **Oxygen Cheat (Not A Hero DLC):** Modify the player's oxygen level.
+- **No Enemies:** Remove all enemies from the game.
 
-- **NightVision Overlay (Not A Hero DLC):** Enable and Disable NightVision Overlay any time you want in Not A Hero DLC.
+- **WallHack:** See Nearby Items Even through Walls
 
-- **Instant Win Mode (Jack 55Th DLC):** Enable instant win in the Jack's 55th Birthday DLC.
+- **High Speed:** Increase your character's movement speed significantly.
 
-- **Text Color (Console):**  Customize the text color for enhanced visibility and a more personalized experience.
+- **Fast Reload:** Reload your weapon instantly, without any delay.
 
-- **Rainbow Text Mode (Console):** When It Enabled the text color will cycle and change continuously.
+- **High Damage:** Boost your weapon's damage to eliminate enemies faster.
 
-- **Theme Option:** Choose between two available menu themes: **"Dark"** and **"Light"**.
+- **Infinite Items:** Never run out of consumable items like healing potions or crafting materials.
+
+- **Infinite Money - Nightmare DLC:** Have unlimited money in the Nightmare DLC, making resource management a breeze.
+
+- **Infinite Score - Nightmare DLC:** Maximize your score in the Nightmare DLC without any effort.
+
+- **Always Win - 21 DLC:** Guarantee victory in the 21 DLC regardless of the situation.
+
+- **Oxygen - Not A Hero DLC:** Prevent your oxygen level from decreasing in the Not A Hero DLC.
+
+- **Infinite Time When you Attack Enemy - Jack's 55th Birthday DLC:** Freeze the countdown timer whenever you attack an enemy in Jack's 55th Birthday DLC.
+
+- **Instant Win - Jack's 55th Birthday DLC:** Immediately win the level in Jack's 55th Birthday DLC.
+
+- **Menu Color:** Customize the color of the menu to match your style.
+
+- **Crosshair:** Display a crosshair in the center of your screen. You can also customize its color and size to your preference.
 
 ![Features](https://github.com/iGeNeTeL/RE7GUI/blob/main/Images/Features.jpg)
 
-## Installation
+## Installation - internal - V1.02 And after
 1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7GUI/releases) page.
+   
+2. Auto Run/Inject:</br>
+To automatically load the tool when the game launches, place the file "dinput8.dll" in the game directory.
+
+Manual Run/Inject:</br>
+OR, you can manually inject/load the tool to the game by Inject the file "RE7Tool DX11/DX12 - Internal.dll" to the game process
+using any injector like Cheat Engine, Process Hacker, etc...
+
+Optional Settings:</br>
+If you want to use my settings, copy the folder "GeNeTeL Tool" into the game directory.
+
+## Installation OLD - external - V1.01 And Below
+1. **Download** the version 1.01 or Below from the [Releases](https://github.com/iGeNeTeL/RE7GUI/releases) page.
    
 2. **Extract** the files.
    
@@ -65,7 +87,6 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 4. **Run** the Tool (RE7Tool.exe) as administrator.
    
 5. **Enjoy !**
-
 
 ## Note
 The tool is not 100% perfect, and there might be some occasional bugs.
@@ -77,88 +98,6 @@ The tool is completely safe and does not contain any viruses or anything like th
 So I assure you that these warnings are false alarms and do not indicate any actual threat to your system.
 
 This tool is for educational and entertainment purposes only. Use it responsibly and at your own risk.
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-----------------------------------------------------------------------------
-
-# هاك / تول لـ لعبة رزدينت ايفل 7 (مع واجهة رسومية) <br/> (تم تطويره من قبل جنتل GeNeTeL)
-
-تول او هاك بسيط مصمم لتعديل و اعطائك بعض الامور داخل لعبة رزدينت ايفل 7.<br/>
- [فيديو استعراض](https://www.youtube.com/watch?v=jj7myJuQQ5M)
-## المميزات
-- **مجاني بالكامل:** :)
-
-- **تعدد الخيارات:** يمكنك تشغيل عددة خيارات في نفس الوقت مثل خيار الرصاص , الهيلث , مجال الرؤية الخ.... و في اي وقت يمكنك ايقاف كل هاذي الخيارات عن طريق خيار "Stop All Active Cheats" الموجود في القائمة الرئيسية للتول
-  
-- **دعم كامل:** هاذي التول متوافقه مع الأصدارين من اللعبة DX11/DX12
-  
-- **تعديل الرصاص:** تعديل الرصاص لأي سلاح عندك داخل اللعبة.
-  
-- **تعديل الهيلث:** تعديل قيمة الهيلث لأي قيمة تريدها.
-  
-- **تعديل مجال رؤية اللاعب (FOV) :** تعديل مجال الرؤية لأي قيمة تريدها.
-  
-- **تنقل:** حرك الشخصية لأي مكان داخل اللعبة.
-
-- **تعديل سرعة اللاعب:** تعديل سرعة اللاعب داخل اللعبة لأي قيمة تريدها.
-
-- **تعديل الموارد:** تعديل عدد الموارد التي لديك داخل اللعبة مثل العملات الاثرية , العشب , اداة فتح الاقفال الخ.
-
-- **الرؤية من خلف الجدران:** رؤية الموارد القريبة حتى من خلال الجدران.
-
-- **تعديل الضرر:** تعديل قيمة الضرر الخاصة ب اسلحتك لأي قيمة تريدها , و يمكنك ايضا رفع القيمة الى رقم عالي ليصبح بأمكانك قتل جميع الاعداء ب ضربة واحدة.
-
-- **الحجم:** قم بتغيير حجم جميع الأعداء إلى أي قيمة تريدها.
-
-- **التجميد:** قم بتجميد مواقع جميع الأعداء و امنعهم من الحركة.
-
-- **سرعة التعشيق:** قم بتخصيص سرعة التعشيق لأسلحتك حسب تفضيلك.
-
-- **تعطيل التصادم (No Collision):** تعطيل التصادم و التفاعل بينك وبين جميع العناصر في اللعبة، مما يسمح لك بالمرور و المشي من خلال الجدران والأعداء والخ.
-
-- **تعديل الفلوس (أضافة Nightmare):** تعديل عدد العملات او الفلوس المتوفرة لديك في أضافة Nightmare.
-
-- **تعديل أجمالي النقاط (أضافة Nightmare):** تعديل قيمة "أجمالي النقاط" لديك داخل اضافة Nightmare
-
-- **تعديل قيم البطائق (أضافة 21):** تعديل قيمة البطاقة المخفية لللاعب و الخصم في اضافة 21.
-
-- **تعديل الضرر المستلم (أضافة 21):** تعديل قيمة "الضرر المستلم" للاعب و الخصم في اضافة 21.
-
-- **تعديل الاوكسجين (أضافة Not A Hero):** تعديل مستوى الاوكسجين الخاص باللاعب في أضافة Not A Hero.
-
-- **اوفرلاي الرؤية الليلية (أضافة Not A Hero):** امكانية تفعيل و الغاء اوفرلاي الرؤية الليلية في اي وقت تريده داخل اضافة Not A Hero.
-
-- **وضع الفوز الفوري (أضافة Jack 55Th):** تفعيل وضع الفوز الفوري في اضافة Jack 55Th للفوز في المرحلة بشكل مباشر.
-
-- **لون النصوص (لشاشة الكونسول):** تغير لون النصوص داخل البرنامج لأي لون تريده لتخصيص تجربة المستخدم
-
-- **وضع الالوان المتغيرة للنصوص(لشاشة الكونسول):** عند تفعيل هذا الوضع سوف تبدأ الوان النصوص بالتغير بشكل مستمر
-
-- **تعديل الثيم:** يمكنك الاختيار بين ثيم "داكن" أو "فاتح" للقائمة الخاصة بالتول. 
-  
-![المميزات](https://github.com/iGeNeTeL/RE7GUI/blob/main/Images/Features%20Arabic.jpg)
-
-## خطوات التثبيت
-1. **تحميل** اخر اصدار من التول عن طريقة صفحة الـ[Releases](https://github.com/iGeNeTeL/RE7GUI/releases).
-   
-2. **استخراج** الملفات.
-   
-3. **شغل اللعبة** (Resident Evil 7 biohazard).
-   
-4. **شغل** التول (RE7Tool.exe) كمسؤول.
-   
-5. **استمتع !**
 
 
 ## ملاحظة
