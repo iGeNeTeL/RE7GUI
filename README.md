@@ -1,7 +1,7 @@
 # Resident Evil 7 Tool / Trainer (By GeNeTeL جنتل) 
 
 Simple tool designed to provide various cheats and modifications for Resident Evil 7 biohazard .
-<br> [Showcase Video - internal - NEW](https://www.youtube.com)
+<br> [Showcase Video - internal - NEW](https://www.youtube.com/watch?v=HiynZhfQUm0)
 <br> [Showcase Video - external - OLD](https://www.youtube.com/watch?v=jj7myJuQQ5M)
 ## Features
 - **Completely Free:** :)
