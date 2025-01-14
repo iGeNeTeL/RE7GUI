@@ -62,7 +62,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Crosshair:** Display a crosshair in the center of your screen. You can also customize its color and size to your preference.
 
-![Features](https://github.com/iGeNeTeL/RE7GUI/blob/main/Images/Features.jpg)
+![Features](https://github.com/iGeNeTeL/RE7GUI/blob/main/Images/Features-NEW.jpg)
 
 ## Installation - internal - V1.02 And after
 1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7GUI/releases) page.
